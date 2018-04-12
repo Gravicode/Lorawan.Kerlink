@@ -1,0 +1,13 @@
+C:\experiment\LORA-KERLINK\Lora.Kerlink\Lora.UdpReceiver\bin\Debug\Lora.UdpReceiver.exe.config
+C:\experiment\LORA-KERLINK\Lora.Kerlink\Lora.UdpReceiver\bin\Debug\Lora.UdpReceiver.exe
+C:\experiment\LORA-KERLINK\Lora.Kerlink\Lora.UdpReceiver\bin\Debug\Lora.UdpReceiver.pdb
+C:\experiment\LORA-KERLINK\Lora.Kerlink\Lora.UdpReceiver\obj\Debug\Lora.UdpReceiver.csprojResolveAssemblyReference.cache
+C:\experiment\LORA-KERLINK\Lora.Kerlink\Lora.UdpReceiver\obj\Debug\Lora.UdpReceiver.exe
+C:\experiment\LORA-KERLINK\Lora.Kerlink\Lora.UdpReceiver\obj\Debug\Lora.UdpReceiver.pdb
+C:\experiment\LORA-KERLINK\Lora.Kerlink\Lora.UdpReceiver\bin\Debug\Newtonsoft.Json.dll
+C:\experiment\LORA-KERLINK\Lora.Kerlink\Lora.UdpReceiver\bin\Debug\Newtonsoft.Json.xml
+C:\experiment\LORA-KERLINK\Lora.Kerlink\Lora.UdpReceiver\bin\Debug\System.Net.Http.Extensions.dll
+C:\experiment\LORA-KERLINK\Lora.Kerlink\Lora.UdpReceiver\bin\Debug\System.Net.Http.Primitives.dll
+C:\experiment\LORA-KERLINK\Lora.Kerlink\Lora.UdpReceiver\bin\Debug\System.Net.Http.Extensions.xml
+C:\experiment\LORA-KERLINK\Lora.Kerlink\Lora.UdpReceiver\bin\Debug\System.Net.Http.Primitives.xml
+C:\experiment\LORA-KERLINK\Lora.Kerlink\Lora.UdpReceiver\obj\Debug\Lora.UdpReceiver.csproj.App.config
