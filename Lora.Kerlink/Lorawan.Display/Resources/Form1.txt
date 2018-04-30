@@ -1,0 +1,12 @@
+<Glide>
+	<Window Name="window" Width="320" Height="240" BackColor="dce3e7">
+	  <TextBlock Name="txtLight" X="20" Y="0" Width="250" Height="32" Alpha="255" Text="I'm a label." TextAlign="Center" Font="4" FontColor="000000"/>
+	  <TextBlock Name="txtTemp" X="20" Y="40" Width="250" Height="32" Alpha="255" Text="I'm a label." TextAlign="Center" Font="4" FontColor="000000"/>
+	  <TextBlock Name="txtHumid" X="20" Y="80" Width="250" Height="32" Alpha="255" Text="I'm a label." TextAlign="Center" Font="4" FontColor="000000"/>
+	  <TextBlock Name="txtGas" X="20" Y="120" Width="250" Height="32" Alpha="255" Text="I'm a label." TextAlign="Center" Font="4" FontColor="000000"/>
+	  <TextBlock Name="txtStatus" X="20" Y="160" Width="250" Height="32" Alpha="255" Text="I'm a label." TextAlign="Center" Font="4" FontColor="000000"/>
+	  <TextBlock Name="txtMessage" X="20" Y="200" Width="250" Height="32" Alpha="255" Text="I'm a label." TextAlign="Center" Font="4" FontColor="000000"/>
+
+	  <Button Name="btn" X="20" Y="250" Width="120" Height="32" Alpha="255" Text="Click me" Font="4" FontColor="000000" DisabledFontColor="808080" TintColor="000000" TintAmount="0"/>
+	</Window>
+</Glide>

@@ -11,3 +11,6 @@ C:\experiment\LORA-KERLINK\Lora.Kerlink\Lora.UdpReceiver\bin\Debug\System.Net.Ht
 C:\experiment\LORA-KERLINK\Lora.Kerlink\Lora.UdpReceiver\bin\Debug\System.Net.Http.Extensions.xml
 C:\experiment\LORA-KERLINK\Lora.Kerlink\Lora.UdpReceiver\bin\Debug\System.Net.Http.Primitives.xml
 C:\experiment\LORA-KERLINK\Lora.Kerlink\Lora.UdpReceiver\obj\Debug\Lora.UdpReceiver.csproj.App.config
+C:\Experiment\lorawan\Lorawan.Kerlink\Lora.Kerlink\Lora.UdpReceiver\bin\Debug\Lora.UdpReceiver.exe.config
+C:\Experiment\lorawan\Lorawan.Kerlink\Lora.Kerlink\Lora.UdpReceiver\obj\Debug\Lora.UdpReceiver.exe
+C:\Experiment\lorawan\Lorawan.Kerlink\Lora.Kerlink\Lora.UdpReceiver\obj\Debug\Lora.UdpReceiver.pdb
