@@ -1,0 +1,8 @@
+C:\experiment\LORA-KERLINK\Lorawan.Kerlink\Lora.Kerlink\Lorawan.SendFTP\bin\Debug\Lorawan.SendFTP.exe.config
+C:\experiment\LORA-KERLINK\Lorawan.Kerlink\Lora.Kerlink\Lorawan.SendFTP\bin\Debug\Lorawan.SendFTP.exe
+C:\experiment\LORA-KERLINK\Lorawan.Kerlink\Lora.Kerlink\Lorawan.SendFTP\bin\Debug\Lorawan.SendFTP.pdb
+C:\experiment\LORA-KERLINK\Lorawan.Kerlink\Lora.Kerlink\Lorawan.SendFTP\bin\Debug\Newtonsoft.Json.dll
+C:\experiment\LORA-KERLINK\Lorawan.Kerlink\Lora.Kerlink\Lorawan.SendFTP\bin\Debug\Newtonsoft.Json.xml
+C:\experiment\LORA-KERLINK\Lorawan.Kerlink\Lora.Kerlink\Lorawan.SendFTP\obj\Debug\Lorawan.SendFTP.csprojResolveAssemblyReference.cache
+C:\experiment\LORA-KERLINK\Lorawan.Kerlink\Lora.Kerlink\Lorawan.SendFTP\obj\Debug\Lorawan.SendFTP.exe
+C:\experiment\LORA-KERLINK\Lorawan.Kerlink\Lora.Kerlink\Lorawan.SendFTP\obj\Debug\Lorawan.SendFTP.pdb

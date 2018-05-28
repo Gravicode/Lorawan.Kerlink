@@ -14,3 +14,6 @@ C:\experiment\LORA-KERLINK\Lora.Kerlink\Lora.UdpReceiver\obj\Debug\Lora.UdpRecei
 C:\Experiment\lorawan\Lorawan.Kerlink\Lora.Kerlink\Lora.UdpReceiver\bin\Debug\Lora.UdpReceiver.exe.config
 C:\Experiment\lorawan\Lorawan.Kerlink\Lora.Kerlink\Lora.UdpReceiver\obj\Debug\Lora.UdpReceiver.exe
 C:\Experiment\lorawan\Lorawan.Kerlink\Lora.Kerlink\Lora.UdpReceiver\obj\Debug\Lora.UdpReceiver.pdb
+C:\experiment\LORA-KERLINK\Lorawan.Kerlink\Lora.Kerlink\Lora.UdpReceiver\bin\Debug\Lora.UdpReceiver.exe.config
+C:\experiment\LORA-KERLINK\Lorawan.Kerlink\Lora.Kerlink\Lora.UdpReceiver\obj\Debug\Lora.UdpReceiver.exe
+C:\experiment\LORA-KERLINK\Lorawan.Kerlink\Lora.Kerlink\Lora.UdpReceiver\obj\Debug\Lora.UdpReceiver.pdb

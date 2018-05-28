@@ -1,13 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.40629.0
+VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lora.Kerlink", "Lora.Kerlink\Lora.Kerlink.csproj", "{65442D35-32D3-4473-A654-B05E84391CA0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lora.UdpReceiver", "Lora.UdpReceiver\Lora.UdpReceiver.csproj", "{BE5D01CC-7BA7-4B5C-B2E9-D7E293337DC0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lorawan.Display", "Lorawan.Display\Lorawan.Display.csproj", "{D056CE0D-8CA7-425E-BAB7-9BEAF8D7F186}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lorawan.SendFTP", "Lorawan.SendFTP\Lorawan.SendFTP.csproj", "{0549131E-2548-4B14-8512-C80C882D6097}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,6 +33,10 @@ Global
 		{D056CE0D-8CA7-425E-BAB7-9BEAF8D7F186}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D056CE0D-8CA7-425E-BAB7-9BEAF8D7F186}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D056CE0D-8CA7-425E-BAB7-9BEAF8D7F186}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{0549131E-2548-4B14-8512-C80C882D6097}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0549131E-2548-4B14-8512-C80C882D6097}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0549131E-2548-4B14-8512-C80C882D6097}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0549131E-2548-4B14-8512-C80C882D6097}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
