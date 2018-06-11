@@ -6,3 +6,13 @@ C:\experiment\LORA-KERLINK\Lorawan.Kerlink\Lora.Kerlink\Lorawan.SendFTP\bin\Debu
 C:\experiment\LORA-KERLINK\Lorawan.Kerlink\Lora.Kerlink\Lorawan.SendFTP\obj\Debug\Lorawan.SendFTP.csprojResolveAssemblyReference.cache
 C:\experiment\LORA-KERLINK\Lorawan.Kerlink\Lora.Kerlink\Lorawan.SendFTP\obj\Debug\Lorawan.SendFTP.exe
 C:\experiment\LORA-KERLINK\Lorawan.Kerlink\Lora.Kerlink\Lorawan.SendFTP\obj\Debug\Lorawan.SendFTP.pdb
+D:\Kerlink\Lorawan.Kerlink-master\Lorawan.Kerlink-master\Lora.Kerlink\Lorawan.SendFTP\bin\Debug\Lorawan.SendFTP.exe.config
+D:\Kerlink\Lorawan.Kerlink-master\Lorawan.Kerlink-master\Lora.Kerlink\Lorawan.SendFTP\bin\Debug\Lorawan.SendFTP.exe
+D:\Kerlink\Lorawan.Kerlink-master\Lorawan.Kerlink-master\Lora.Kerlink\Lorawan.SendFTP\bin\Debug\Lorawan.SendFTP.pdb
+D:\Kerlink\Lorawan.Kerlink-master\Lorawan.Kerlink-master\Lora.Kerlink\Lorawan.SendFTP\bin\Debug\Newtonsoft.Json.dll
+D:\Kerlink\Lorawan.Kerlink-master\Lorawan.Kerlink-master\Lora.Kerlink\Lorawan.SendFTP\bin\Debug\Newtonsoft.Json.xml
+D:\Kerlink\Lorawan.Kerlink-master\Lorawan.Kerlink-master\Lora.Kerlink\Lorawan.SendFTP\obj\Debug\Lorawan.SendFTP.csprojResolveAssemblyReference.cache
+D:\Kerlink\Lorawan.Kerlink-master\Lorawan.Kerlink-master\Lora.Kerlink\Lorawan.SendFTP\obj\Debug\Lorawan.SendFTP.exe
+D:\Kerlink\Lorawan.Kerlink-master\Lorawan.Kerlink-master\Lora.Kerlink\Lorawan.SendFTP\obj\Debug\Lorawan.SendFTP.pdb
+D:\Kerlink\Lorawan.Kerlink-master\Lorawan.Kerlink-master\Lora.Kerlink\Lorawan.SendFTP\bin\Debug\Renci.SshNet.dll
+D:\Kerlink\Lorawan.Kerlink-master\Lorawan.Kerlink-master\Lora.Kerlink\Lorawan.SendFTP\bin\Debug\Renci.SshNet.xml
