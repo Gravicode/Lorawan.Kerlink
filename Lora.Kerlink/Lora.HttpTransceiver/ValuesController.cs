@@ -94,6 +94,12 @@ namespace Model.Transmitter
 
 namespace Model.Receiver
 {
+    public class TxInd
+    {
+        public string txmsgid { get; set; }
+        public string status { get; set; }
+    }
+
     public class Motetx
     {
         public int freq { get; set; }
@@ -112,11 +118,12 @@ namespace Model.Receiver
 
     public class Gwrx
     {
+        public string eui { get; set; }
         public string time { get; set; }
         public int chan { get; set; }
         public int rfch { get; set; }
         public int rssi { get; set; }
-        public double lsnr { get; set; }
+        public string lsnr { get; set; }
     }
 
     public class Rx
@@ -128,6 +135,7 @@ namespace Model.Receiver
 
     public class ReceiveModel
     {
+        public TxInd tx_ind { get; set; }
         public Rx rx { get; set; }
     }
 }

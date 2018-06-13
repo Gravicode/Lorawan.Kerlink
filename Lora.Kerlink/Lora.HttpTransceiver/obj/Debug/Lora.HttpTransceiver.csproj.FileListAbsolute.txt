@@ -19,3 +19,6 @@ D:\Kerlink\Lorawan.Kerlink-master\Lorawan.Kerlink-master\Lora.Kerlink\Lora.HttpT
 D:\Kerlink\Lorawan.Kerlink-master\Lorawan.Kerlink-master\Lora.Kerlink\Lora.HttpTransceiver\obj\Debug\Lora.HttpTransceiver.csprojResolveAssemblyReference.cache
 D:\Kerlink\Lorawan.Kerlink-master\Lorawan.Kerlink-master\Lora.Kerlink\Lora.HttpTransceiver\obj\Debug\Lora.HttpTransceiver.exe
 D:\Kerlink\Lorawan.Kerlink-master\Lorawan.Kerlink-master\Lora.Kerlink\Lora.HttpTransceiver\obj\Debug\Lora.HttpTransceiver.pdb
+D:\Kerlink\Lorawan.Kerlink\Lora.Kerlink\Lora.HttpTransceiver\bin\Debug\Lora.HttpTransceiver.exe.config
+D:\Kerlink\Lorawan.Kerlink\Lora.Kerlink\Lora.HttpTransceiver\obj\Debug\Lora.HttpTransceiver.exe
+D:\Kerlink\Lorawan.Kerlink\Lora.Kerlink\Lora.HttpTransceiver\obj\Debug\Lora.HttpTransceiver.pdb
