@@ -17,3 +17,16 @@ C:\Experiment\lorawan\Lorawan.Kerlink\Lora.Kerlink\Lora.UdpReceiver\obj\Debug\Lo
 C:\experiment\LORA-KERLINK\Lorawan.Kerlink\Lora.Kerlink\Lora.UdpReceiver\bin\Debug\Lora.UdpReceiver.exe.config
 C:\experiment\LORA-KERLINK\Lorawan.Kerlink\Lora.Kerlink\Lora.UdpReceiver\obj\Debug\Lora.UdpReceiver.exe
 C:\experiment\LORA-KERLINK\Lorawan.Kerlink\Lora.Kerlink\Lora.UdpReceiver\obj\Debug\Lora.UdpReceiver.pdb
+D:\Kerlink\Lorawan.Kerlink\Lora.Kerlink\Lora.UdpReceiver\bin\Debug\Lora.UdpReceiver.exe.config
+D:\Kerlink\Lorawan.Kerlink\Lora.Kerlink\Lora.UdpReceiver\bin\Debug\Lora.UdpReceiver.exe
+D:\Kerlink\Lorawan.Kerlink\Lora.Kerlink\Lora.UdpReceiver\bin\Debug\Lora.UdpReceiver.pdb
+D:\Kerlink\Lorawan.Kerlink\Lora.Kerlink\Lora.UdpReceiver\bin\Debug\Newtonsoft.Json.dll
+D:\Kerlink\Lorawan.Kerlink\Lora.Kerlink\Lora.UdpReceiver\bin\Debug\System.Net.Http.Extensions.dll
+D:\Kerlink\Lorawan.Kerlink\Lora.Kerlink\Lora.UdpReceiver\bin\Debug\System.Net.Http.Primitives.dll
+D:\Kerlink\Lorawan.Kerlink\Lora.Kerlink\Lora.UdpReceiver\bin\Debug\Newtonsoft.Json.xml
+D:\Kerlink\Lorawan.Kerlink\Lora.Kerlink\Lora.UdpReceiver\bin\Debug\System.Net.Http.Extensions.xml
+D:\Kerlink\Lorawan.Kerlink\Lora.Kerlink\Lora.UdpReceiver\bin\Debug\System.Net.Http.Primitives.xml
+D:\Kerlink\Lorawan.Kerlink\Lora.Kerlink\Lora.UdpReceiver\obj\Debug\Lora.UdpReceiver.csproj.App.config
+D:\Kerlink\Lorawan.Kerlink\Lora.Kerlink\Lora.UdpReceiver\obj\Debug\Lora.UdpReceiver.csprojResolveAssemblyReference.cache
+D:\Kerlink\Lorawan.Kerlink\Lora.Kerlink\Lora.UdpReceiver\obj\Debug\Lora.UdpReceiver.exe
+D:\Kerlink\Lorawan.Kerlink\Lora.Kerlink\Lora.UdpReceiver\obj\Debug\Lora.UdpReceiver.pdb

@@ -45,6 +45,22 @@ namespace Lora.UdpReceiver
                     sensorValue.Tanggal = DateTime.Now;
                     //call power bi api
                     SendToPowerBI(sensorValue);
+                    //send data to gateway
+                    {
+                        Transmitter.ObjMoteTx objtx = new Transmitter.ObjMoteTx();
+                        objtx.tx = new Transmitter.Tx();
+                        objtx.tx.moteeui = "00000000AAABBBEE";
+                        objtx.tx.txmsgid = "000000000001";
+                        objtx.tx.trycount = 5;
+                        objtx.tx.txsynch = false;
+                        objtx.tx.ackreq = false;
+                        //string to hex str, hex str to base64 string
+                        objtx.tx.userdata = new Transmitter.Userdata() { payload = "Njg2NTZjNmM2ZjIwNjM2ZjZkNzA3NTc0NjU3Mg==", port = 5 };
+                        var jsonStr = JsonConvert.SerializeObject(objtx);
+                        byte[] bytes = Encoding.ASCII.GetBytes(jsonStr);
+                        udpServer.Send(bytes, bytes.Length, remoteEP);
+
+                    }
                     Thread.Sleep(5000);
                 }
                
